@@ -2325,7 +2325,7 @@
     (property "Value" "MountingHole" (id 1) (at 115.57 177.7999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad_TopBottom" (id 2) (at 113.03 176.53 0)
+    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965" (id 2) (at 113.03 176.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 113.03 176.53 0)
@@ -2874,7 +2874,7 @@
       (reference "H4") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad_TopBottom")
     )
     (path "/9dd58876-f968-4cd0-b2ad-422f53c41329"
-      (reference "H5") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad_TopBottom")
+      (reference "H5") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965")
     )
     (path "/05029a69-fbde-4ca1-b8ce-fe1db7482fff"
       (reference "SW1") (unit 1) (value "SW_PUSH-kbd") (footprint "mylib:Kailh_Choc_Hotplug_reversible")
