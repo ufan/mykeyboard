@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="13.0173"
+   height="5.5986662"
+   viewBox="0 0 3.4441606 1.4813139"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="sweepro-mark-line.svg"
+   inkscape:export-filename="/home/yong/kbd-src/split/mykeyboard/logos/sweepro-mark-line.png"
+   inkscape:export-xdpi="114.53895"
+   inkscape:export-ydpi="114.53895">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="17.786455"
+     inkscape:cx="-21.151727"
+     inkscape:cy="-12.369168"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="399"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-12.7835,-291.97274)">
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555582px;line-height:1.25;font-family:Karumbi;-inkscape-font-specification:'Karumbi Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.0288597"
+       y="294.94565"
+       id="text836"><tspan
+         sodipodi:role="line"
+         id="tspan834"
+         x="1.0288597"
+         y="294.94565"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Karumbi;-inkscape-font-specification:Karumbi;word-spacing:-0.00264583px;stroke-width:0.26458332">Sweep</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="14.409964"
+       y="294.95029"
+       id="text848"><tspan
+         sodipodi:role="line"
+         id="tspan846"
+         x="14.409964"
+         y="304.93829"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777791px;line-height:1.25;font-family:'Noto Serif Gurmukhi';-inkscape-font-specification:'Noto Serif Gurmukhi Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="12.696363"
+       y="294.83536"
+       id="text857"><tspan
+         sodipodi:role="line"
+         id="tspan855"
+         x="12.696363"
+         y="294.83536"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64.99999762%;font-family:'UbuntuMono NF';-inkscape-font-specification:'UbuntuMono NF Bold Italic';baseline-shift:super;stroke-width:0.26458332">PRO</tspan></text>
+  </g>
+</svg>
