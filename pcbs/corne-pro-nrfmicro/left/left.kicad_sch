@@ -646,6 +646,7 @@
     )
   )
 
+
   (junction (at 106.68 63.5) (diameter 0) (color 0 0 0 0)
     (uuid 02b53942-8af9-4f0d-a581-f4dffe2215e8)
   )
@@ -1413,7 +1414,7 @@
     (property "Value" "Conn_Battery_solderable" (id 1) (at 44.45 127 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "mylib:Molex_Panelmate_53780-0270_1x02-1MP_P1.25mm_Horizontal" (id 2) (at 55.88 129.54 0)
+    (property "Footprint" "Connector_JST:JST_ACH_BM02B-ACHSS-GAN-ETF_1x02-1MP_P1.20mm_Vertical" (id 2) (at 55.88 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 55.88 132.08 0)
@@ -2249,7 +2250,7 @@
   (symbol (lib_id "power:GND") (at 50.8 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid de2781d3-8dd3-47b8-a4a7-9c68b110e628)
-    (property "Reference" "#PWR?" (id 0) (at 50.8 140.97 0)
+    (property "Reference" "#PWR0101" (id 0) (at 50.8 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 50.8 139.7 0))
@@ -2459,10 +2460,10 @@
       (reference "#PWR06") (unit 1) (value "GND") (footprint "")
     )
     (path "/de2781d3-8dd3-47b8-a4a7-9c68b110e628"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
     (path "/0a48f02f-76ac-4f18-962a-1aa9912cfba0"
-      (reference "Bat_backup1") (unit 1) (value "Conn_Battery_solderable") (footprint "mylib:Molex_Panelmate_53780-0270_1x02-1MP_P1.25mm_Horizontal")
+      (reference "Bat_backup1") (unit 1) (value "Conn_Battery_solderable") (footprint "Connector_JST:JST_ACH_BM02B-ACHSS-GAN-ETF_1x02-1MP_P1.20mm_Vertical")
     )
     (path "/67451d5d-77ee-4a05-8359-b8d0301e96b4"
       (reference "Bat_main1") (unit 1) (value "Conn_Battery_solderable") (footprint "mylib:Molex_Panelmate_53780-0270_1x02-1MP_P1.25mm_Horizontal")
