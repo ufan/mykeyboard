@@ -30,7 +30,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="9.3227632"
      inkscape:cx="-2.0348583"
-     inkscape:cy="-1.4912403"
+     inkscape:cy="7.0899065"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -64,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,13 +75,13 @@
      transform="translate(-12.7835,-291.97274)">
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333357px;line-height:1.25;font-family:Karumbi;-inkscape-font-specification:'Karumbi Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777797px;line-height:1.25;font-family:Karumbi;-inkscape-font-specification:'Karumbi Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="1.0288597"
        y="294.94565"
        id="text836"
        inkscape:export-filename="/home/yong/src/zmk/app/boards/arm/nrfmacro/epd_screen/slave/icons/pictures/cornepro-marklogo.png"
-       inkscape:export-xdpi="124.76"
-       inkscape:export-ydpi="124.76"><tspan
+       inkscape:export-xdpi="142.60297"
+       inkscape:export-ydpi="142.60297"><tspan
          sodipodi:role="line"
          id="tspan834"
          x="1.0288597"
@@ -100,17 +100,17 @@
          style="stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666679px;line-height:1.25;font-family:'Noto Serif Gurmukhi';-inkscape-font-specification:'Noto Serif Gurmukhi Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
-       x="11.782325"
-       y="292.63278"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76388943px;line-height:1.25;font-family:'Noto Serif Gurmukhi';-inkscape-font-specification:'Noto Serif Gurmukhi Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="9.5414724"
+       y="292.90195"
        id="text3206"
        inkscape:export-filename="/home/yong/src/zmk/app/boards/arm/nrfmacro/epd_screen/slave/icons/pictures/cornepro-marklogo.png"
-       inkscape:export-xdpi="124.76"
-       inkscape:export-ydpi="124.76"><tspan
+       inkscape:export-xdpi="142.60297"
+       inkscape:export-ydpi="142.60297"><tspan
          sodipodi:role="line"
          id="tspan3204"
-         x="11.782325"
-         y="292.63278"
+         x="9.5414724"
+         y="292.90195"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'UbuntuMono NF';-inkscape-font-specification:'UbuntuMono NF Bold Italic';stroke-width:0.26458335">PRO</tspan></text>
   </g>
 </svg>

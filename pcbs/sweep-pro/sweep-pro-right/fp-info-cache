@@ -1,4 +1,4 @@
-20409939768444901
+20416583979558197
 0xLib-Encoders
 RollerEncoder_Panasonic_EVQWGD001
 
@@ -86065,6 +86065,13 @@ GND connector
 1
 1
 mylib
+JST_ACH_BM02B-ACHSS-GAN-ETF_1x02-1MP_P1.20mm_Vertical
+JST ACH series connector, BM02B-ACHSS-GAN-ETF (http://www.jst-mfg.com/product/pdf/eng/eACH.pdf), generated with kicad-footprint-generator
+connector JST ACH vertical
+0
+4
+3
+mylib
 Kailh_Choc
 Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
 kailh,choc
@@ -86093,11 +86100,25 @@ Kailh_Choc_Hotplug_reversible
 4
 2
 mylib
+Kailh_Choc_Hotplug_standalone
+
+
+0
+6
+2
+mylib
 Kailh_Choc_reversible
 Kailh "Choc" PG1350 keyswitch
 kailh,choc
 0
 3
+2
+mylib
+Kailh_Choc_standalone
+
+
+0
+6
 2
 mylib
 Molex_CLIK-Mate_502382-0270_1x02-1MP_P1.25mm_Vertical
@@ -86276,6 +86297,13 @@ WirelessChager_pads_reversible
 2
 mylib
 gateron-ks27-reversible
+
+
+0
+4
+2
+mylib
+gateron-ks27-reversible-hotplug
 
 
 0
