@@ -1,18 +1,4 @@
-20416583979558197
-0xLib-Encoders
-RollerEncoder_Panasonic_EVQWGD001
-
-
-0
-6
-6
-0xLib-Encoders
-RotaryEncoder_Alps_EC11E-Switch_Vertical
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-7
-6
+20110354470355728
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -1394,8 +1380,8 @@ Light Touch Switch, https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/A
 2
 Button_Switch_SMD
 SW_SPST_EVQP2
-Light Touch Switch, https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000C374.pdf
-SMD SMT SPST EVQP2
+Light Touch Switch
+
 0
 4
 2
@@ -1440,21 +1426,21 @@ Surface Mount Tactile Switch for High-Density Mounting, 3.1mm height, https://om
 Tactile Switch
 0
 4
-2
+4
 Button_Switch_SMD
 SW_SPST_Omron_B3FS-101xP
 Surface Mount Tactile Switch for High-Density Mounting, 4.3mm height, https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf
 Tactile Switch
 0
 4
-2
+4
 Button_Switch_SMD
 SW_SPST_Omron_B3FS-105xP
 Surface Mount Tactile Switch for High-Density Mounting, 7.3mm height, https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf
 Tactile Switch
 0
 4
-2
+4
 Button_Switch_SMD
 SW_SPST_PTS645
 C&K Components SPST SMD PTS645 Series 6mm Tact Switch
@@ -2182,7 +2168,7 @@ SW_TH_Tactile_Omron_B3F-10xx_https://www.omron.com/ecb/products/pdf/en-b3f.pdf
 Omron B3F-10xx
 0
 4
-2
+4
 Button_Switch_THT
 SW_Tactile_SKHH_Angled
 tactile switch 6mm ALPS SKHH right angle http://www.alps.com/prod/info/E/HTML/Tact/SnapIn/SKHH/SKHHLUA010.html
@@ -2264,13 +2250,6 @@ Buzzer_Beeper
 Buzzer_Mallory_AST1109MLTRQ
 Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST1109MLTRQ.pdf
 buzzer piezo
-0
-2
-2
-Buzzer_Beeper
-Buzzer_Mallory_AST1240MLQ
-Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST12140MLQ.pdf
-piezo buzzer
 0
 2
 2
@@ -3802,8 +3781,8 @@ CP Radial series Radial pin pitch 7.50mm  diameter 18mm Electrolytic Capacitor
 2
 Capacitor_THT
 CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, diameter=22mm, height=40mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm diameter 22mm height 40mm Electrolytic Capacitor
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=22mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 22mm Electrolytic Capacitor
 0
 3
 2
@@ -3816,8 +3795,8 @@ CP Radial series Radial pin pitch 10.00mm  diameter 22mm Electrolytic Capacitor
 2
 Capacitor_THT
 CP_Radial_D24.0mm_P10.00mm_3pin_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, diameter=24mm, height=40mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm diameter 24mm height 40mm Electrolytic Capacitor
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=24mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 24mm Electrolytic Capacitor
 0
 3
 2
@@ -3830,8 +3809,8 @@ CP Radial series Radial pin pitch 10.00mm  diameter 24mm Electrolytic Capacitor
 2
 Capacitor_THT
 CP_Radial_D25.0mm_P10.00mm_3pin_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, diameter=25mm, height=45mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm diameter 25mm height 45mm Electrolytic Capacitor
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=25mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 25mm Electrolytic Capacitor
 0
 3
 2
@@ -3844,8 +3823,8 @@ CP Radial series Radial pin pitch 10.00mm  diameter 25mm Electrolytic Capacitor
 2
 Capacitor_THT
 CP_Radial_D26.0mm_P10.00mm_3pin_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, diameter=26mm, height=45mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm diameter 26mm height 45mm Electrolytic Capacitor
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=26mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 26mm Electrolytic Capacitor
 0
 3
 2
@@ -3858,8 +3837,8 @@ CP Radial series Radial pin pitch 10.00mm  diameter 26mm Electrolytic Capacitor
 2
 Capacitor_THT
 CP_Radial_D30.0mm_P10.00mm_3pin_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, diameter=30mm, height=45mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm diameter 30mm height 45mm Electrolytic Capacitor
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=30mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 30mm Electrolytic Capacitor
 0
 3
 2
@@ -3872,8 +3851,8 @@ CP Radial series Radial pin pitch 10.00mm  diameter 30mm Electrolytic Capacitor
 2
 Capacitor_THT
 CP_Radial_D35.0mm_P10.00mm_3pin_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, diameter=35mm, height=50mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm diameter 35mm height 50mm Electrolytic Capacitor
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=35mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 35mm Electrolytic Capacitor
 0
 3
 2
@@ -3886,8 +3865,8 @@ CP Radial series Radial pin pitch 10.00mm  diameter 35mm Electrolytic Capacitor
 2
 Capacitor_THT
 CP_Radial_D40.0mm_P10.00mm_3pin_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, diameter=40mm, height=50mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm diameter 40mm height 50mm Electrolytic Capacitor
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=40mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 40mm Electrolytic Capacitor
 0
 3
 2
@@ -6503,27 +6482,6 @@ Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal
 4
 4
 Connector_Audio
-Jack_3.5mm_CUI_SJ1-3523N_Horizontal
-TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf
-TRS audio jack stereo horizontal
-0
-3
-3
-Connector_Audio
-Jack_3.5mm_CUI_SJ1-3524N_Horizontal
-TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf
-TRS audio jack stereo horizontal
-0
-4
-4
-Connector_Audio
-Jack_3.5mm_CUI_SJ1-3525N_Horizontal
-TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf
-TRS audio jack stereo horizontal
-0
-5
-5
-Connector_Audio
 Jack_3.5mm_CUI_SJ1-3533NG_Horizontal
 TRS 3.5mm, horizontal, through-hole, https://www.cui.com/product/resource/sj1-353xng.pdf
 TRS audio jack stereo horizontal
@@ -8014,13 +7972,6 @@ connector cf
 0
 54
 50
-Connector_Card
-SD_Hirose_DM1AA_SF_PEJ82
-SD, SMD, top-mount, push-push (https://www.hirose.com/product/document?clcode=CL0609-0004-8-82&productname=DM1AA-SF-PEJ(82)&series=DM1&documenttype=2DDrawing&lang=en&documentid=0000915301)
-SD card connector
-0
-16
-13
 Connector_Card
 SD_Kyocera_145638009211859+
 SD Card Connector, Normal Type, Outer Tail, Without Ejector (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
@@ -10930,13 +10881,6 @@ Connector_HDMI
 HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle
 HDMI, Type A, Kycon KDMIX-SL1-NS-WS-B15, Vertical Right Angle, http://www.kycon.com/Pub_Eng_Draw/KDMIX-SL1-NS-WS-B15.pdf
 hdmi type a
-0
-23
-20
-Connector_HDMI
-HDMI_A_Molex_208658-1001_Horizontal
-HDMI Molex Type A https://www.molex.com/pdm_docs/sd/2086581001_sd.pdf
-HDMI Molex Type A
 0
 23
 20
@@ -42063,13 +42007,6 @@ AJP92A8813 8P8C RJ45 ethernet plug
 8
 8
 Connector_RJ
-RJ45_Pulse_JK00177NL_Horizontal
-10/100/1000 Base-T RJ45 single port with LEDs and 75W POE, https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/J432/doc_part/J432.pdf
-RJ45 8p8c ethernet POE
-0
-22
-21
-Connector_RJ
 RJ45_Pulse_JK0654219NL_Horizontal
 10/100/1000 Base-T RJ45 single port with LEDs https://media.digikey.com/pdf/Data%20Sheets/Pulse%20PDFs/JK%20Series.pdf#page=2
 RJ45 8p8c ethernet
@@ -42155,10 +42092,10 @@ FMC HPC
 400
 Connector_Samtec
 Samtec_FMC_ASP-134604-01_4x40_Vertical
-https://suddendocs.samtec.com/prints/asp-134604-01-mkt.pdf
+http://www.samtec.com/standards/vita.aspx
 FMC LPC VITA 
 0
-160
+162
 160
 Connector_Samtec
 Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical
@@ -45745,13 +45682,6 @@ usb A plug horizontal
 11
 10
 Connector_USB
-USB3_Micro-B_Connfly_DS1104-01
-Micro USB B receptable with flange, bottom-mount, SMD, right-angle (http://en.connfly.com/static/upload/file/pdf/DS1104-01.pdf)
-USB 3.0 Micro B SMD right angle
-0
-16
-11
-Connector_USB
 USB_A_CNCTech_1001-011-01101_Horizontal
 USB type A Plug, Horizontal, http://cnctech.us/pdfs/1001-011-01101.pdf
 USB-A
@@ -45782,13 +45712,6 @@ USB A Vertical
 Connector_USB
 USB_A_Stewart_SS-52100-001_Horizontal
 USB A connector https://belfuse.com/resources/drawings/stewartconnector/dr-stw-ss-52100-001.pdf
-USB_A Female Connector receptacle
-0
-6
-5
-Connector_USB
-USB_A_TE_292303-7_Horizontal
-USB type A, Horizontal, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=292303&DocType=Customer+Drawing&DocLang=English
 USB_A Female Connector receptacle
 0
 6
@@ -45884,13 +45807,6 @@ USB Type-C Receptacle Through-hole Right angle
 0
 20
 17
-Connector_USB
-USB_C_Receptacle_GCT_USB4115-03-C
-USB TYPE C, VERT RCPT PCB, SMT, https://gct.co/files/drawings/usb4115.pdf
-USB C Type-C Receptacle SMD
-0
-28
-25
 Connector_USB
 USB_C_Receptacle_HRO_TYPE-C-31-M-12
 USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
@@ -50666,6 +50582,20 @@ Diode SOD923
 2
 2
 Diode_SMD
+D_SOT-23_ANK
+SOT-23, Single Diode
+SOT-23
+0
+3
+2
+Diode_SMD
+D_SOT-23_NKA
+SOT-23, Single Diode
+SOT-23
+0
+3
+2
+Diode_SMD
 D_TUMD2
 ROHM - TUMD2
 TUMD2
@@ -53480,13 +53410,6 @@ Shielded Inductors Bourns SMD SRP7028A
 2
 2
 Inductor_SMD
-L_Bourns_SRR1208_12.7x12.7mm
-Bourns SRP1208 series SMD inductor https://www.bourns.com/pdfs/SRR1208.pdf
-Bourns SRP1208 SMD inductor
-0
-2
-2
-Inductor_SMD
 L_Bourns_SRR1210A
 Bourns SRR1210A series SMD inductor https://www.bourns.com/docs/Product-Datasheets/SRR1210A.pdf
 Bourns SRR1210A SMD inductor
@@ -55426,20 +55349,6 @@ L_CommonMode_Toroid Vertical series Radial pin pitch 17.78*30.48mm^2  length 43.
 4
 4
 Inductor_THT
-L_CommonMode_VAC_T60405-S6123-X140
-3 Phase, CM Choke, https://vacuumschmelze.com/03_Documents/Datasheets%20-%20Drawings/Commom-Mode-Chokes/6123-X140.pdf
-common mode filter
-0
-6
-6
-Inductor_THT
-L_CommonMode_VAC_T60405-S6123-X240
-3 Phase, CM Choke, https://vacuumschmelze.com/03_Documents/Datasheets%20-%20Drawings/Commom-Mode-Chokes/6123-X240.pdf
-common mode filter
-0
-6
-6
-Inductor_THT
 L_CommonMode_Wuerth_WE-CMB-L
 Wuerth, WE-CMB, Bauform L,
 CommonModeChoke Gleichtaktdrossel 
@@ -56906,20 +56815,6 @@ LED_SMD
 LED_Kingbright_APFA3010_3x1.5mm_Horizontal
 LED RGB, APFA3010, http://www.kingbrightusa.com/images/catalog/SPEC/APFA3010LSEEZGKQBKC.pdf
 LED RGB APFA3010 KINGBRIGHT 3x1.5mm
-0
-4
-4
-LED_SMD
-LED_Kingbright_APHBM2012_2x1.25mm
-Dual LED SMD https://www.kingbrightusa.com/KCpack.asp?txtPack=APHBM2012
-LED Kingbright APHM2012
-0
-4
-4
-LED_SMD
-LED_Kingbright_KPBD-3224
-Kingbright, dual LED, red-green, dome lens, 3.2 x 2.4 mm Surface Mount LED Lamp (https://www.kingbright.com/attachments/file/psearch/000/00/00/KPBD-3224SURKCGKC(Ver.20A).pdf)
-Kingbright dual LED KPBD-3224
 0
 4
 4
@@ -60536,23 +60431,9 @@ Laser Diode TO56
 3
 3
 OptoDevice
-Lightpipe_Dialight_515-1064F
-https://www.dialightsignalsandcomponents.com/515-optopipe-light-pipe-trilevel-2-5mm-rnd-flat-diff-lens-press-fit/#tab-resources
-lightpipe triple tower right angle 3mm
-0
-0
-0
-OptoDevice
 Lightpipe_LPF-C012303S
 https://www.lumex.com/spec/LPF-C012303S.pdf
 lightpipe dual tower right angle 3mm
-0
-0
-0
-OptoDevice
-Lightpipe_LPF-C013301S
-https://www.lumex.com/spec/LPF-C013301S.pdf
-lightpipe triple tower right angle 3mm
 0
 0
 0
@@ -61635,20 +61516,6 @@ Analog Devices (Linear Tech), 133-pin BGA uModule, 15.0x15.0x4.92mm, https://www
 134
 134
 Package_BGA
-MAPBGA_9x9mm_Layout17x17_P0.5mm
-MAPBGA 9x9x1.11 PKG, 9.0x9.0mm, 272 Ball, 17x17 Layout, 0.5mm Pitch, https://www.nxp.com/docs/en/package-information/98ASA00869D.pdf#page=1
-BGA 272 0.5
-0
-272
-272
-Package_BGA
-MAPBGA_14x14mm_Layout17x17_P0.8mm
-MAPBGA 14x14x1.18 PKG, 14.0x14.0mm, 289 Ball, 17x17 Layout, 0.8mm Pitch, https://www.nxp.com/docs/en/package-information/98ASA00855D.pdf#page=1
-BGA 289 0.8
-0
-289
-289
-Package_BGA
 Maxim_WLP-9_1.595x1.415_Layout3x3_P0.4mm_Ball0.27mm_Pad0.25mm_NSMD
 Maxim_WLP-9 W91C1+1 https://pdfserv.maximintegrated.com/package_dwgs/21-0459.PDF
 Maxim_WLP-9
@@ -61669,48 +61536,6 @@ BGA 196 0.75
 0
 196
 196
-Package_BGA
-Micron_FBGA-78_7.5x10.6mm_Layout9x13_P0.8mm
-FBGA-78, 10.6x7.5mm, 78 Ball, 9x13 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=24
-BGA 78 0.8
-0
-78
-78
-Package_BGA
-Micron_FBGA-78_8x10.5mm_Layout9x13_P0.8mm
-FBGA-78, 10.5x8.0mm, 78 Ball, 9x13 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=25
-BGA 78 0.8
-0
-78
-78
-Package_BGA
-Micron_FBGA-78_9x10.5mm_Layout9x13_P0.8mm
-FBGA-78, 10.5x9.0mm, 78 Ball, 9x13 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=23
-BGA 78 0.8
-0
-78
-78
-Package_BGA
-Micron_FBGA-96_7.5x13.5mm_Layout9x16_P0.8mm
-FBGA-96, 13.5x7.5mm, 96 Ball, 9x16 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=27
-BGA 96 0.8
-0
-96
-96
-Package_BGA
-Micron_FBGA-96_8x14mm_Layout9x16_P0.8mm
-FBGA-96, 14.0x8.0mm, 96 Ball, 9x16 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=28
-BGA 96 0.8
-0
-96
-96
-Package_BGA
-Micron_FBGA-96_9x14mm_Layout9x16_P0.8mm
-FBGA-96, 14.0x9.0mm, 96 Ball, 9x16 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=26
-BGA 96 0.8
-0
-96
-96
 Package_BGA
 ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm
 ST uTFBGA-36, 0.25mm pad, 3.6x3.6mm, 36 Ball, 6x6 Layout, 0.5mm Pitch, https://www.st.com/resource/en/datasheet/stulpi01a.pdf
@@ -62622,13 +62447,6 @@ LFCSP-WD NoLead
 24
 11
 Package_CSP
-Maxim_WLCSP-32_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm
-WLCSP-32, 2.168x2.998mm, 35 Ball, 7x5 Layout, 0.4mm Pitch, https://pdfserv.maximintegrated.com/package_dwgs/21-100489.PDF
-CSP 35 0.4
-0
-35
-35
-Package_CSP
 ST_WLCSP-25_Die425
 WLCSP-25, 5x5 raster, 2.097x2.493mm package, pitch 0.4mm; see section 7.6 of http://www.st.com/resource/en/datasheet/stm32l031f6.pdf
 BGA 25 0.4
@@ -62916,13 +62734,6 @@ CSP 4 0.5
 4
 4
 Package_CSP
-WLCSP-4_0.64x0.64mm_P0.35mm
-WLCSP-4, 0.64x0.64mm, 4 Ball, 2x2 Layout, 0.35mm Pitch, https://www.onsemi.com/pdf/datasheet/ncp163-d.pdf#page=23
-CSP 4 0.35
-0
-4
-4
-Package_CSP
 WLCSP-6_1.4x1.0mm_P0.4mm
 6pin Pitch 0.4mm
 6pin Pitch 0.4mm WLCSP
@@ -63065,13 +62876,6 @@ QFN 0.5
 Package_DFN_QFN
 DFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm_PullBack
 DFN, 6 Pin (http://www.onsemi.com/pub/Collateral/NCP133-D.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
-DFN NoLead
-0
-9
-7
-Package_DFN_QFN
-DFN-6-1EP_2x1.6mm_P0.5mm_EP1.15x1.3mm
-DFN, 6 Pin (https://www.onsemi.com/pdf/datasheet/ncp349-d.pdf#page=12), generated with kicad-footprint-generator ipc_noLead_generator.py
 DFN NoLead
 0
 9
@@ -63315,20 +63119,6 @@ DFN 0.5
 8
 8
 Package_DFN_QFN
-DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm
-DFN, 10 Pin (https://www.nxp.com/docs/en/data-sheet/PCF85063A.pdf#page=48), generated with kicad-footprint-generator ipc_noLead_generator.py
-DFN NoLead
-0
-15
-11
-Package_DFN_QFN
-DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias
-DFN, 10 Pin (https://www.nxp.com/docs/en/data-sheet/PCF85063A.pdf#page=48), generated with kicad-footprint-generator ipc_noLead_generator.py
-DFN NoLead
-0
-22
-11
-Package_DFN_QFN
 DFN-10-1EP_2x3mm_P0.5mm_EP0.64x2.4mm
 DDB Package; 10-Lead Plastic DFN (3mm x 2mm) (see Linear Technology DFN_10_05-08-1722.pdf)
 DFN 0.5
@@ -63383,20 +63173,6 @@ DDB Package; 12-Lead Plastic DFN (3mm x 2mm) (see Linear Technology DFN_12_05-08
 DFN 0.45
 0
 15
-13
-Package_DFN_QFN
-DFN-12-1EP_3x3mm_P0.5mm_EP1.6x2.5mm
-DFN, 12 Pin (https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MIC2207-2MHz-3A-PWM-Buck-Regulator-DS20006470A.pdf#page=22), generated with kicad-footprint-generator ipc_noLead_generator.py
-DFN NoLead
-0
-17
-13
-Package_DFN_QFN
-DFN-12-1EP_3x3mm_P0.5mm_EP1.6x2.5mm_ThermalVias
-DFN, 12 Pin (https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MIC2207-2MHz-3A-PWM-Buck-Regulator-DS20006470A.pdf#page=22), generated with kicad-footprint-generator ipc_noLead_generator.py
-DFN NoLead
-0
-24
 13
 Package_DFN_QFN
 DFN-12-1EP_3x3mm_P0.5mm_EP2.05x2.86mm
@@ -64484,20 +64260,6 @@ QFN NoLead
 55
 29
 Package_DFN_QFN
-QFN-28-1EP_5x5mm_P0.5mm_EP3.75x3.75mm
-QFN, 28 Pin (https://www.cmlmicro.com/wp-content/uploads/2017/10/CMX901_ds.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-38
-29
-Package_DFN_QFN
-QFN-28-1EP_5x5mm_P0.5mm_EP3.75x3.75mm_ThermalVias
-QFN, 28 Pin (https://www.cmlmicro.com/wp-content/uploads/2017/10/CMX901_ds.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-91
-29
-Package_DFN_QFN
 QFN-28-1EP_5x6mm_P0.5mm_EP3.65x4.65mm
 QFN, 28 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/05081932_0_UHE28.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
@@ -65051,20 +64813,6 @@ QFN NoLead
 104
 53
 Package_DFN_QFN
-QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm
-QFN, 56 Pin (https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf#page=634), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-61
-57
-Package_DFN_QFN
-QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm_ThermalVias
-QFN, 56 Pin (https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf#page=634), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-66
-57
-Package_DFN_QFN
 QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm
 QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
@@ -65470,13 +65218,6 @@ TDFN DFN 0.5mm
 0
 17
 9
-Package_DFN_QFN
-TDFN-8_1.4x1.6mm_P0.4mm
-TDFN, 8 Pin (https://www.silabs.com/documents/public/data-sheets/si7210-datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-TDFN NoLead
-0
-8
-8
 Package_DFN_QFN
 TDFN-10-1EP_2x3mm_P0.5mm_EP0.9x2mm
 TDFN, 10 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0429.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -66712,20 +66453,6 @@ WQFN NoLead
 Package_DFN_QFN
 WQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm_ThermalVias
 WQFN, 16 Pin (https://www.ti.com/lit/ds/symlink/tpa6132a2.pdf#page=24), generated with kicad-footprint-generator ipc_noLead_generator.py
-WQFN NoLead
-0
-26
-17
-Package_DFN_QFN
-WQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm
-WQFN, 16 Pin (https://www.ti.com/lit/ds/symlink/tlv9064.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py
-WQFN NoLead
-0
-21
-17
-Package_DFN_QFN
-WQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm_ThermalVias
-WQFN, 16 Pin (https://www.ti.com/lit/ds/symlink/tlv9064.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py
 WQFN NoLead
 0
 26
@@ -72244,7 +71971,7 @@ VSON-8_3.3x3.3mm_P0.65mm_NexFET
 8-Lead Plastic Dual Flat, No Lead Package (MF) - 3.3x3.3x1 mm Body [VSON] http://www.ti.com/lit/ds/symlink/csd87334q3d.pdf
 VSON 0.65
 0
-13
+12
 5
 Package_SON
 VSON-10-1EP_3x3mm_P0.5mm_EP1.2x2mm
@@ -75356,56 +75083,56 @@ potentiometer vertical 9mm dual
 6
 Potentiometer_THT
 Potentiometer_Alps_RK09K_Single_Horizontal
-111009J 1110AK4 11100DN 1110AAR 1110077 1110A0J 110AMJ 1110B26 D1110C1A Potentiometer, horizontal, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf
-Potentiometer horizontal Alps RK09K Single Snapin
+Potentiometer, horizontal, Alps RK09K Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09K/RK09K_list.html
+Potentiometer horizontal Alps RK09K Single
 0
 5
-4
+3
 Potentiometer_THT
 Potentiometer_Alps_RK09K_Single_Vertical
-113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf
-Potentiometer vertical Alps RK09K RK09D Single Snapin
+Potentiometer, vertical, Alps RK09K Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09K/RK09K_list.html
+Potentiometer vertical Alps RK09K Single
 0
-5
-4
+3
+3
 Potentiometer_THT
 Potentiometer_Alps_RK09L_Double_Horizontal
-122002H 122002L 12B0A4S 12B0A1V Potentiometer, horizontal, Alps RK09L Double, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09l/rk09l.pdf
+Potentiometer, horizontal, Alps RK09L Double, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html
 Potentiometer horizontal Alps RK09L Double
 0
 8
-7
+6
 Potentiometer_THT
 Potentiometer_Alps_RK09L_Double_Vertical
-1240015 1240019 12D0A1W 12D0A1T Potentiometer, vertical, Alps RK09L Double, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09l/rk09l.pdf
+Potentiometer, vertical, Alps RK09L Double, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html
 Potentiometer vertical Alps RK09L Double
 0
-8
-7
+6
+6
 Potentiometer_THT
 Potentiometer_Alps_RK09L_Single_Horizontal
-1120A5F 1120036 1120A0Z 112003S Potentiometer, horizontal, Alps RK09L Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09l/rk09l.pdf
+Potentiometer, horizontal, Alps RK09L Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html
 Potentiometer horizontal Alps RK09L Single
 0
 5
-4
+3
 Potentiometer_THT
 Potentiometer_Alps_RK09L_Single_Vertical
- 1140A5L 114001E 1140A2U 114001T Potentiometer, vertical, Alps RK09L Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09l/rk09l.pdf
+Potentiometer, vertical, Alps RK09L Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html
 Potentiometer vertical Alps RK09L Single
 0
-5
-4
+3
+3
 Potentiometer_THT
 Potentiometer_Alps_RK09Y11_Single_Horizontal
-Potentiometer, horizontal, Long Life, Alps RK09Y11 Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09y11/rk09y11.pdf
+Potentiometer, horizontal, Alps RK09Y11 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09Y11/RK09Y11_list.html
 Potentiometer horizontal Alps RK09Y11 Single
 0
 3
 3
 Potentiometer_THT
 Potentiometer_Alps_RK097_Dual_Horizontal
-1210, Dual Pot, Horizontal, Alps RK097 Dual,  https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf
+Potentiometer, horizontal, Alps RK097 Dual, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK097/RK097_list.html
 Potentiometer horizontal Alps RK097 Dual
 0
 6
@@ -75413,34 +75140,27 @@ Potentiometer horizontal Alps RK097 Dual
 Potentiometer_THT
 Potentiometer_Alps_RK097_Dual_Horizontal_Switch
 1221-5R1211, Dual Pot, Horizontal, Switch, Alps RK097 Dual, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf
-Potentiometer horizontal Alps RK097 Dual Switch
+pot horizontal alps rk097 dual switch
 0
 8
 8
 Potentiometer_THT
 Potentiometer_Alps_RK097_Single_Horizontal
-1110, Single Pot, Horizontal, Alps RK097 Single,  https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf
+Potentiometer, horizontal, Alps RK097 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK097/RK097_list.html
 Potentiometer horizontal Alps RK097 Single
 0
 3
 3
 Potentiometer_THT
-Potentiometer_Alps_RK097_Single_Horizontal_Switch
-1111-5R1211, Single Pot, Horizontal, Switch, Alps RK097 Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf
-Potentiometer horizontal Alps RK097 Single Switch
-0
-5
-5
-Potentiometer_THT
 Potentiometer_Alps_RK163_Dual_Horizontal
-12101A2 1210AX9 12A0B85 12A0BKR  Potentiometer, horizontal, Alps RK163 Dual, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk16/rk16.pdf
+Potentiometer, horizontal, Alps RK163 Dual, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html
 Potentiometer horizontal Alps RK163 Dual
 0
 6
 6
 Potentiometer_THT
 Potentiometer_Alps_RK163_Single_Horizontal
-1110U1Q 1110TNP 1110U2A 1110U0Q Potentiometer, horizontal, Alps RK163 Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk16/rk16.pdf
+Potentiometer, horizontal, Alps RK163 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html
 Potentiometer horizontal Alps RK163 Single
 0
 3
@@ -76545,40 +76265,12 @@ ESP WROOM-02 espressif esp8266ex
 19
 19
 RF_Module
-ESP32-S2-MINI-1
-2.4 GHz Wi-Fi and Bluetooth combo chip, external antenna, https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf
-2.4 GHz Wi-Fi Bluetooth external antenna espressif  20*15.4mm
-0
-73
-65
-RF_Module
-ESP32-S2-MINI-1U
-2.4 GHz Wi-Fi and Bluetooth combo chip, external antenna, https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf
-2.4 GHz Wi-Fi Bluetooth external antenna espressif  15.4*15.4mm
-0
-73
-65
-RF_Module
 ESP32-S2-WROVER
 ESP32-S2-WROVER(-I) 2.4 GHz Wi-Fi https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf
 ESP32-S2  ESP32  WIFI
 0
 43
 43
-RF_Module
-ESP32-S3-WROOM-1
-2.4 GHz Wi-Fi and Bluetooth module  https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
-2.4 GHz Wi-Fi and Bluetooth module
-0
-62
-41
-RF_Module
-ESP32-S3-WROOM-1U
-2.4 GHz Wi-Fi and Bluetooth module  https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
-2.4 GHz Wi-Fi and Bluetooth module
-0
-62
-41
 RF_Module
 ESP32-WROOM-32
 Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
@@ -78918,13 +78610,6 @@ DFN Sensor optical IR
 8
 8
 Sensor
-LuminOX_LOX-O2
-SST LuminOX Luminescence-based O2 sensor, https://sstsensing.com/wp-content/uploads/2021/08/DS0030rev15_LuminOx.pdf
-SST LuminOX O2
-0
-4
-4
-Sensor
 MQ-6
 Gas Sensor, 6 pin, https://www.winsen-sensor.com/d/files/semiconductor/mq-6.pdf
 gas sensor
@@ -78952,13 +78637,6 @@ co2 gas sensor pwm modbus
 0
 9
 9
-Sensor
-Winson_GM-402B_5x5mm_P1.27mm
-Winson GM-402B, 8 Pin (https://www.winsen-sensor.com/d/files/me2/mems--gm-402b--manual-v1_1.pdf)
-Winson
-0
-8
-8
 Sensor_Audio
 CUI_CMC-4013-SMT
 Omnidirectional, -42dB, reflowable, electret condenser microphone https://www.cuidevices.com/product/resource/cmc-4013-smt-tr.pdf
@@ -80335,48 +80013,6 @@ Symbol
 Symbol_Highvoltage_Type2_CopperTop_Small
 Symbol, Highvoltage, Type 2, Copper Top, Small,
 Symbol, Highvoltage, Type 2, Copper Top, Small,
-0
-0
-0
-Symbol
-UKCA-Logo_6x6mm_SilkScreen
-UKCA marking
-Logo UKCA marking
-0
-0
-0
-Symbol
-UKCA-Logo_8x8mm_SilkScreen
-UKCA marking
-Logo UKCA marking
-0
-0
-0
-Symbol
-UKCA-Logo_12x12mm_SilkScreen
-UKCA marking
-Logo UKCA marking
-0
-0
-0
-Symbol
-UKCA-Logo_20x20mm_SilkScreen
-UKCA marking
-Logo UKCA marking
-0
-0
-0
-Symbol
-UKCA-Logo_30x30mm_SilkScreen
-UKCA marking
-Logo UKCA marking
-0
-0
-0
-Symbol
-UKCA-Logo_40x40mm_SilkScreen
-UKCA marking
-Logo UKCA marking
 0
 0
 0
@@ -84630,27 +84266,6 @@ Transformer Ethernet SMD
 24
 24
 Transformer_SMD
-Transformer_Ethernet_Halo_N2_SO-16_7.11x12.7mm
-Halo N2 SO, 16 Pin (https://www.haloelectronics.com/pdf/discrete-ultra-100baset.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-Halo SO Transformer_SMD
-0
-16
-16
-Transformer_SMD
-Transformer_Ethernet_Halo_N5_SO-16_7.11x12.7mm
-Halo N5 SO, 16 Pin (https://www.haloelectronics.com/pdf/discrete-ultra-100baset.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-Halo SO Transformer_SMD
-0
-16
-16
-Transformer_SMD
-Transformer_Ethernet_Halo_N6_SO-16_7.11x14.73mm
-Halo N6 SO, 16 Pin (https://www.haloelectronics.com/pdf/discrete-ultra-100baset.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-Halo SO Transformer_SMD
-0
-16
-16
-Transformer_SMD
 Transformer_Ethernet_Wuerth_749013011A
 Ethernet Transformer, Wuerth 749013011A, https://www.we-online.com/katalog/datasheet/749013011A.pdf
 Ethernet Transformer
@@ -85987,332 +85602,3 @@ varistor SIOV
 0
 2
 2
-mylib
-Battery_connector_lim
-
-
-0
-4
-2
-mylib
-Battery_connector_lim_reversible
-
-
-0
-11
-2
-mylib
-Battery_pads_reversible
-
-
-0
-2
-2
-mylib
-C_0603_1608Metric
-Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor
-0
-2
-2
-mylib
-Conn_EPD
-1.02 inch  e-ink display,  epaper102 compatible connector
-epd
-0
-8
-8
-mylib
-Conn_EPD_Jumper
-1.02 inch  e-ink display,  epaper102 compatible connector
-epd
-0
-56
-8
-mylib
-Diode
-SOD-123
-SOD-123
-0
-2
-2
-mylib
-Diode_SOD-123_reversible
-SOD-123
-SOD-123
-0
-2
-2
-mylib
-Ferris_TentingHole_original
-
-
-0
-4
-1
-mylib
-Ferris_Tilting_Hole
-four holes in a circle compatible with ferris pcb
-
-0
-4
-0
-mylib
-GND_1pin_conn
-
-GND connector
-0
-1
-1
-mylib
-JST_ACH_BM02B-ACHSS-GAN-ETF_1x02-1MP_P1.20mm_Vertical
-JST ACH series connector, BM02B-ACHSS-GAN-ETF (http://www.jst-mfg.com/product/pdf/eng/eACH.pdf), generated with kicad-footprint-generator
-connector JST ACH vertical
-0
-4
-3
-mylib
-Kailh_Choc
-Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
-kailh,choc
-0
-2
-2
-mylib
-Kailh_Choc_Edge
-Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
-kailh,choc
-0
-0
-0
-mylib
-Kailh_Choc_Hotplug
-
-
-0
-2
-2
-mylib
-Kailh_Choc_Hotplug_reversible
-
-
-0
-4
-2
-mylib
-Kailh_Choc_Hotplug_standalone
-
-
-0
-6
-2
-mylib
-Kailh_Choc_reversible
-Kailh "Choc" PG1350 keyswitch
-kailh,choc
-0
-3
-2
-mylib
-Kailh_Choc_standalone
-
-
-0
-6
-2
-mylib
-Molex_CLIK-Mate_502382-0270_1x02-1MP_P1.25mm_Vertical
-Molex CLIK-Mate series connector, 502382-0270 (http://www.molex.com/pdm_docs/sd/5023820270_sd.pdf), generated with kicad-footprint-generator
-connector Molex CLIK-Mate side entry
-0
-4
-3
-mylib
-Molex_Panelmate_53780-0270_1x02-1MP_P1.25mm_Horizontal
-Molex Panelmate series connector, 53780-0270 (), generated with kicad-footprint-generator
-connector Molex Panelmate top entry
-0
-4
-3
-mylib
-MountingHole_2.2mm_M2
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
-0
-0
-0
-mylib
-MountingHole_3.2mm_M3_DIN965
-Mounting Hole 3.2mm, no annular, M3, DIN965
-mounting hole 3.2mm no annular m3 din965
-0
-0
-0
-mylib
-PMW3360
-
-
-0
-16
-16
-mylib
-Power
-
-
-0
-7
-4
-mylib
-Power_reversible
-
-
-0
-14
-3
-mylib
-ProMacroLite
-Pro Micro footprint
-standard ProMicro
-0
-31
-31
-mylib
-ProMacroLite_BackMount
-Pro Micro footprint
-standard ProMicro
-0
-31
-31
-mylib
-ProMacroLite_BackMount_Partial
-Pro Micro footprint
-standard ProMicro
-0
-29
-29
-mylib
-ProMacroLite_Partial
-Pro Micro footprint
-standard ProMicro
-0
-29
-29
-mylib
-ProMicro
-Pro Micro footprint
-standard ProMicro
-0
-24
-24
-mylib
-ProMicro_BackMount
-Pro Micro footprint
-standard ProMicro
-0
-24
-24
-mylib
-ProMicro_Jumpers
-Pro Micro footprint
-promicro ProMicro
-0
-168
-24
-mylib
-ProMicro_Jumpers_MoutingHole
-Pro Micro footprint reversible with jumpers and with three mouting holes
-promicro ProMicro
-0
-168
-24
-mylib
-ProMicro_minimal
-sigle side pro micro with solder pad on back
-pro micro
-0
-24
-24
-mylib
-RollerEncoder_EVQWGD001_reversible
-
-
-0
-8
-5
-mylib
-RollerEncoder_Panasonic_EVQWGD001
-
-
-0
-6
-6
-mylib
-SW_B3U-1000P
-Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
-Tactile Switch
-0
-2
-2
-mylib
-SW_B3U-1000P_reversible
-Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
-Tactile Switch
-0
-2
-2
-mylib
-SW_BSI10
-
-
-0
-3
-3
-mylib
-SW_Reset_vertical
-
-
-0
-6
-2
-mylib
-TRRS-PJ-320A
-
-
-0
-4
-4
-mylib
-VBus_pad_reversible
-
-
-0
-2
-2
-mylib
-WirelessChager_pads_reversible
-
-
-0
-2
-2
-mylib
-gateron-ks27-reversible
-
-
-0
-4
-2
-mylib
-gateron-ks27-reversible-hotplug
-
-
-0
-4
-2
-mylib
-pogopin_1x4
-
-
-0
-4
-4
