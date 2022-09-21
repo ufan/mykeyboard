@@ -320,7 +320,7 @@
     (property "Value" "RotaryEncoder" (id 1) (at 146.304 94.234 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "mylib:RollerEncoder_Panasonic_EVQWGD001" (id 2) (at 142.494 97.79 0)
+    (property "Footprint" "mylib:Panasonic_EVQWGD001_Latest" (id 2) (at 142.494 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 146.304 95.25 0)

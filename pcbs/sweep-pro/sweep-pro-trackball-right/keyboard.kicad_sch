@@ -714,7 +714,7 @@
     (property "Value" "Conn_01x04_Female" (id 1) (at 116.205 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "" (id 2) (at 115.57 186.182 0)
+    (property "Footprint" "mylib:pogopin_1x4" (id 2) (at 115.57 186.182 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 115.57 186.182 0)
