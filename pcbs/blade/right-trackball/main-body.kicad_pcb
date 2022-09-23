@@ -662,8 +662,8 @@
       (pinfunction "Pin_4") (pintype "passive") (tstamp 9936528d-f5b8-48f1-b53e-cc2b43b20560))
     (pad "5" thru_hole circle locked (at -6 8 106) (size 2 2) (drill 0.5) (layers *.Cu *.Mask)
       (pinfunction "Pin_5") (pintype "passive") (tstamp 79a59c9e-ea17-4fc2-9eaf-cc68b29b00c6))
-    (model "${MYLIB_DIR}/3dmodels/peripherals/Encoder_Horizontal_Panasonic.stp"
-      (offset (xyz 8 -7.5 -4))
+    (model "${MYLIB_DIR}/3dmodels/peripherals/Encoder_Horizontal_Panasonic.stp" hide
+      (offset (xyz 8.3 -6 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
