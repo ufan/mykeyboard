@@ -27,4 +27,6 @@ All keyboards are powered by [zmk](https://zmk.dev/) with following design goals
 ![keycaps](doc/pictures/keycap.jpg)
 
 ## Super-powerful trackball firmware
-[Trackball demo](https://www.youtube.com/watch?v=7J-NTVMHwWQ&t=86s)
+- [trackball demo](https://www.youtube.com/watch?v=7J-NTVMHwWQ&t=86s)
+- [pmw3610_breakout](https://github.com/ufan/pmw3610_breakout)
+- [firmware support](https://github.com/ufan/zmk/tree/ptdevice-refactor)
