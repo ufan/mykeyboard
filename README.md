@@ -7,8 +7,8 @@ All keyboards are powered by [zmk](https://zmk.dev/) with following design goals
 - yet still powerful
 
 ## Super-powerful trackball firmware
-- [trackball demo](https://www.youtube.com/watch?v=7J-NTVMHwWQ&t=86s)
-- [pmw3610_breakout](https://github.com/ufan/pmw3610_breakout)
+- [youtube trackball demo](https://www.youtube.com/watch?v=7J-NTVMHwWQ&t=86s)
+- [pmw3610_breakout pcb](https://github.com/ufan/pmw3610_breakout)
 - [firmware support](https://github.com/ufan/zmk/tree/ptdevice-refactor)
 
 # 42-key classic Corne-Pro with EPD display
