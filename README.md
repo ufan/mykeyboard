@@ -23,6 +23,9 @@ All keyboards are powered by [zmk](https://zmk.dev/) with following design goals
 ## Tenting support
 ![tenting](doc/pictures/tenting.jpg)
 
+## Extensible
+![extensible](doc/pictures/extensible.jpg)
+
 ## 3D-printed concave/convex keycaps
 ![keycaps](doc/pictures/keycap.jpg)
 
